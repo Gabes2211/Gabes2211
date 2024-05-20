@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gabes2211
 - 👀 I’m interested in Study
-- 🌱 I’m currently learning PHP, SQL, C, CSS, C#.
+- 🌱 I’m currently learning nothing.
 - 💞️ I’m looking to collaborate on open projects
 - 📫 How to reach me here....
 
